@@ -1,0 +1,1 @@
+Try to explain some config item in tsconfig for better understanding.
